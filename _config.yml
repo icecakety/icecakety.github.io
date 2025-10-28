@@ -1,8 +1,8 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "icecakety's blog"
+description: "icecakety's Personal Blog"
 
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://api.dicebear.com/7.x/avataaars/svg?seed=icecakety
+favicon: https://favicon.io/favicon.ico?text=IB
 
 navigation:
   - name: 首页
