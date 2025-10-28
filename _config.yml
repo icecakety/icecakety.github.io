@@ -34,8 +34,8 @@ paginate_path: /page:num/
 
 # Gitalk
 gitalk:
-  clientID: 
-  clientSecret: 
+  clientID: Ov23liAJviBxGSGGl7I0
+  clientSecret: 05c2062e83766e98a2d065efbc4bb8b581876472
   repo: icecakety.github.io
   owner: icecakety
 
